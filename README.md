@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a beginner web developer with knowledge of HTM
 
 There are some  projects I've worked on:
 
-Free to check out my GitHub repositories for  projects and code examples.
+Feel free to check out my GitHub repositories for  projects and code examples.
 
 ## Contact Me
 
