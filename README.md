@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a beginner web developer with knowledge of HTM
 - JavaScript
 - React (currently learning)
 - Git
-- Basic UX/UI knowledge, experience with Figma
 
 
 ## Projects
